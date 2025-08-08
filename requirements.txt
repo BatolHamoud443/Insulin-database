@@ -6,3 +6,4 @@ langchain-community
 chromadb
 huggingface-hub
 typing-extensions
+sentence-transformers
