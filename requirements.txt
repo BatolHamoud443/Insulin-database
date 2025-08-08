@@ -1,0 +1,8 @@
+httpx
+python-dotenv
+python-telegram-bot>=20.0
+requests
+langchain-community
+chromadb
+huggingface-hub
+typing-extensions
